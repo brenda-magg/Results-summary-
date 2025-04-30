@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Results summary component](https://brenda-magg.github.io/Results-summary-/)
 
 ## My process
 
